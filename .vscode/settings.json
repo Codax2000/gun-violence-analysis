@@ -1,4 +1,9 @@
 {
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "C:\\Users\\alexk\\miniconda3\\envs\\generic-analysis\\python.exe"
+    "python.pythonPath": "C:\\Users\\alexk\\miniconda3\\envs\\generic-analysis\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.rulers": [
+        78
+    ]
 }
